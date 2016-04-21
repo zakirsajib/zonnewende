@@ -1,0 +1,266 @@
+{
+	"mapwidth": "770",
+	"mapheight": "1090",
+	"categories": [
+		{
+			"id": "verblijfsaccommodatie",
+			"title": "Verblijfsaccommodatie",
+			"icon": "http://placehold.it/50/236461/ffffff?text=1",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "receptie",
+			"title": "Keuken/receptie",
+			"icon": "http://placehold.it/50/236461/ffffff?text=2",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "woonhuis",
+			"title": "Woonhuis beheerder",
+			"icon": "http://placehold.it/50/236461/ffffff?text=3",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "eetzalen",
+			"title": "Eetzalen",
+			"icon": "http://placehold.it/50/236461/ffffff?text=4",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "het",
+			"title": "Het Paviljoen",
+			"icon": "http://placehold.it/50/236461/ffffff?text=5",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "speeltuin",
+			"title": "Speeltuin",
+			"icon": "http://placehold.it/50/236461/ffffff?text=6",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "zipwire",
+			"title": "Zipwire survivalschool",
+			"icon": "http://placehold.it/50/236461/ffffff?text=7",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "verhard",
+			"title": "Verhard sportveld",
+			"icon": "http://placehold.it/50/236461/ffffff?text=8",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "basketbalveld",
+			"title": "Basketbalveld",
+			"icon": "http://placehold.it/50/236461/ffffff?text=9",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "feestzaal",
+			"title": "Feestzaal de Bungalow",
+			"icon": "http://placehold.it/50/236461/ffffff?text=10",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "prive",
+			"title": "Prive terrein",
+			"icon": "http://placehold.it/50/236461/ffffff?text=11",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "valleybalveid",
+			"title": "Valleybalveid",
+			"icon": "http://placehold.it/50/236461/ffffff?text=12",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "kim",
+			"title": "Kim- en hindernisparcours",
+			"icon": "http://placehold.it/50/236461/ffffff?text=13",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "voetbalveld",
+			"title": "Voetbalveld",
+			"icon": "http://placehold.it/50/236461/ffffff?text=14",
+			"color": "#30847F",
+			"show": "false"
+		},
+		{
+			"id": "toegang",
+			"title": "Toegang tot het gemeentebos",
+			"icon": "http://placehold.it/50/236461/ffffff?text=15",
+			"color": "#30847F",
+			"show": "false"
+		}
+	],
+	
+	"levels": [
+		{
+			"id": "basement-floor",
+			"title": "Basement",
+			"map": "http://localhost/zonnewende/wp-content/uploads/2016/04/plattegrond_map.svg",
+			"minimap": "http://localhost/zonnewende/wp-content/uploads/2016/04/plattegrond-mini.png",
+			"locations": [
+				{
+					"id": "verblijfsaccommodatie",
+					"title": "Verblijfsaccommodatie",
+					"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed pulvinar eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec eget lorem sit amet eros blandit consectetur. Fusce tincidunt lectus vitae imperdiet hendrerit. In eget massa ut massa rutrum dictum eu quis metus. Suspendisse sit amet quam pellentesque, porttitor lorem a, pellentesque nibh.<br/><br/><a href='#' class='btn btn-default btn-lg'>Stel hier een vraag over</a>",
+					"category": "verblijfsaccommodatie",
+					"description": "Lorem ipsum",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"x": "0.6666",
+					"y": "0.8159"
+				},
+				{
+					"id": "receptie",
+					"title": "Keuken/receptie",
+					"description": "Lorem ipsum",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "receptie",
+					"x": "0.4623",
+					"y": "0.7780"
+				},
+				{
+					"id": "woonhuis",
+					"title": "Woonhuis beheerder",
+					"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed pulvinar eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec eget lorem sit amet eros blandit consectetur. Fusce tincidunt lectus vitae imperdiet hendrerit. In eget massa ut massa rutrum dictum eu quis metus. Suspendisse sit amet quam pellentesque, porttitor lorem a, pellentesque nibh.<br/><br/><a href='#' class='btn btn-default btn-lg'>Stel hier een vraag over</a>",
+					"description": "Woonhuis beheerder",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "woonhuis",
+					"x": "0.4930",
+					"y": "0.8355",
+					"zoom": "3"
+				},
+				{
+					"id": "eetzalen",
+					"title": "Eetzalen",
+					"description": "Eetzalen",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "eetzalen",
+					"x": "0.3654",
+					"y": "0.8028",
+					"zoom": "3"
+				},
+				{
+					"id": "het",
+					"title": "Het Paviljoen",
+					"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed pulvinar eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec eget lorem sit amet eros blandit consectetur. Fusce tincidunt lectus vitae imperdiet hendrerit. In eget massa ut massa rutrum dictum eu quis metus. Suspendisse sit amet quam pellentesque, porttitor lorem a, pellentesque nibh.<br/><br/><a href='#' class='btn btn-default btn-lg'>Stel hier een vraag over</a>",
+					"description": "At the corner of Happy & Healthy",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "het",
+					"x": "0.3760",
+					"y": "0.6331"
+				},
+				{
+					"id": "speeltuin",
+					"title": "Speeltuin",
+					"description": "Speeltuin",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "speeltuin",
+					"x": "0.6259",
+					"y": "0.6731"
+				},
+				{
+					"id": "zipwire",
+					"title": "Zipwire survivalschool",
+					"description": "Lorem ipsum",
+					"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed pulvinar eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec eget lorem sit amet eros blandit consectetur. Fusce tincidunt lectus vitae imperdiet hendrerit. In eget massa ut massa rutrum dictum eu quis metus. Suspendisse sit amet quam pellentesque, porttitor lorem a, pellentesque nibh.<br/><br/><a href='#' class='btn btn-default btn-lg'>Stel hier een vraag over</a>",
+					"category": "zipwire",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"x": "0.7530",
+					"y": "0.5324"
+				},
+				{
+					"id": "verhard",
+					"title": "Verhard sportveld",
+					"description": "Lorem ipsum",
+					"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed pulvinar eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec eget lorem sit amet eros blandit consectetur. Fusce tincidunt lectus vitae imperdiet hendrerit. In eget massa ut massa rutrum dictum eu quis metus. Suspendisse sit amet quam pellentesque, porttitor lorem a, pellentesque nibh.<br/><br/><a href='#' class='btn btn-default btn-lg'>Stel hier een vraag over</a>",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "verhard",
+					"x": "0.4827",
+					"y": "0.5404"
+				},
+				{
+					"id": "basketbalveld",
+					"title": "Basketbalveld",
+					"description": "Lorem ipsum",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "basketbalveld",
+					"x": "0.5121",
+					"y": "0.0743"
+				},
+				{
+					"id": "feestzaal",
+					"title": "Feestzaal de Bungalow",
+					"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed pulvinar eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec eget lorem sit amet eros blandit consectetur. Fusce tincidunt lectus vitae imperdiet hendrerit. In eget massa ut massa rutrum dictum eu quis metus. Suspendisse sit amet quam pellentesque, porttitor lorem a, pellentesque nibh.<br/><br/><a href='#' class='btn btn-default btn-lg'>Stel hier een vraag over</a>",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "feestzaal",
+					"x": "0.3260",
+					"y": "0.3872"
+				},
+				{
+					"id": "prive",
+					"title": "Prive terrein",
+					"description": "Prive terrein",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "prive",
+					"x": "0.4015",
+					"y": "0.3285"
+				},
+				{
+					"id": "valleybalveid",
+					"title": "Valleybalveid",
+					"category": "valleybalveid",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"x": "0.0740",
+					"y": "0.3383"
+				},
+				{
+					"id": "kim",
+					"title": "Kim- en hindernisparcours",
+					"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed pulvinar eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec eget lorem sit amet eros blandit consectetur. Fusce tincidunt lectus vitae imperdiet hendrerit. In eget massa ut massa rutrum dictum eu quis metus. Suspendisse sit amet quam pellentesque, porttitor lorem a, pellentesque nibh.<br/><br/><a href='#' class='btn btn-default btn-lg'>Stel hier een vraag over</a>",
+					"description": "Kim- en hindernisparcours",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "kim",
+					"x": "0.2035",
+					"y": "0.2820"
+				},
+				{
+					"id": "voetbalveld",
+					"title": "Voetbalveld",
+					"description": "Voetbalveld",
+					"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed pulvinar eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec eget lorem sit amet eros blandit consectetur. Fusce tincidunt lectus vitae imperdiet hendrerit. In eget massa ut massa rutrum dictum eu quis metus. Suspendisse sit amet quam pellentesque, porttitor lorem a, pellentesque nibh.<br/><br/><a href='#' class='btn btn-default btn-lg'>Stel hier een vraag over</a>",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "voetbalveld",
+					"x": "0.3208",
+					"y": "0.2471"
+				},
+				{
+					"id": "toegang",
+					"title": "Toegang tot het gemeentebos",
+					"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed pulvinar eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec eget lorem sit amet eros blandit consectetur. Fusce tincidunt lectus vitae imperdiet hendrerit. In eget massa ut massa rutrum dictum eu quis metus. Suspendisse sit amet quam pellentesque, porttitor lorem a, pellentesque nibh.<br/><br/><a href='#' class='btn btn-default btn-lg'>Stel hier een vraag over</a>",
+					"description": "Toegang tot het gemeentebos",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "toegang",
+					"x": "0.6299",
+					"y": "0.2425"
+				}
+			]
+		}
+	]
+}

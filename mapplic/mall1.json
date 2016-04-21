@@ -1,0 +1,50 @@
+{
+	"mapwidth": "770",
+	"mapheight": "1090",
+	"levels": [
+		{
+			"id": "basement-floor",
+			"title": "Basement",
+			"map": "http://localhost/zonnewende/wp-content/uploads/2016/04/Untitled.png",
+			"minimap": "http://localhost/zonnewende/wp-content/uploads/2016/04/plattegrond-mini.png",
+			"locations": [
+				{
+					"id": "verblijfsaccommodatie",
+					"title": "Verblijfsaccommodatie",
+					"about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed pulvinar eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec eget lorem sit amet eros blandit consectetur. Fusce tincidunt lectus vitae imperdiet hendrerit. In eget massa ut massa rutrum dictum eu quis metus. Suspendisse sit amet quam pellentesque, porttitor lorem a, pellentesque nibh.<br/><br/><a href='#' class='btn btn-default btn-lg'>Stel hier een vraag over</a>",
+					"category": "verblijfsaccommodatie",
+					"description": "Lorem ipsum",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"x": "0.6666",
+					"y": "0.8159"
+				},
+				{
+					"id": "receptie",
+					"title": "Keuken/receptie",
+					"description": "Lorem ipsum",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "receptie",
+					"x": "0.4623",
+					"y": "0.7780"
+				}
+			],
+			"locations": [
+				{
+					"id": "verblijfsaccommodatie",
+					"title": "Verblijfsaccommodatie",
+					"about": "Lorem ipsum",
+					"category": "verblijfsaccommodatie",
+					"description": "Lorem ipsum",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder"
+				},
+				{
+					"id": "receptie",
+					"title": "Keuken/receptie",
+					"description": "Lorem ipsum",
+					"thumbnail": "http://placehold.it/300x150/B7A6BD/ffffff?text=Placeholder",
+					"category": "receptie"
+				}
+			]
+		}
+	]
+}

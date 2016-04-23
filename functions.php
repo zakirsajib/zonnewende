@@ -256,7 +256,7 @@ require get_template_directory() . '/inc/jetpack.php';
 /**
  * Load wp-bootstrap-navwalker file.
  */
-require get_template_directory() . '/inc/wp_bootstrap_navwalker.php';
+//require get_template_directory() . '/inc/wp_bootstrap_navwalker.php';
 
 /**
  * Load plattegrondmap map file.

@@ -15,7 +15,7 @@ $j(document).ready(function() {
     /*-------------------------------------------------------------------*/
     /*  1. Dropdown glyphicon icon adding. Requires bootstrap.
     /*-------------------------------------------------------------------*/
-	$j('.dropdown-menu > li > a').prepend('<span class="glyphicon glyphicon-menu-right"></span>&nbsp;&nbsp;');
+	$j('.sub-menu > li > a').prepend('<span class="glyphicon glyphicon-menu-right"></span>&nbsp;&nbsp;');
 	
 	$j('aside ul li a, .error-sidebar .widget ul li a').append('<span class="glyphicon glyphicon-menu-right pull-right"></span>');
 	
